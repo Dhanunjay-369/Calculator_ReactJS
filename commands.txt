@@ -1,4 +1,5 @@
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Dhanunjay-369/Calculator_ReactJS.git
-git push -u origin main
+git remote add origin https://github.com/Dhanunjay-369/UseAxios_ReactJS.git
+
+git push -u origin main
